@@ -1,0 +1,52 @@
+Lines: 11
+Number words (including stopwords): 76
+Vocabulary size: 24
+Number of symbols: 320
+Number of different symbols: 29
+Words (alphabetical order): 
+	Bacon: 6
+	Egg: 8
+	Lobster: 1
+	Mornay: 1
+	Sausage: 1
+	Spam: 26
+	Thermidor: 1
+	a: 2
+	and: 12
+	aux: 1
+	baked: 1
+	beans: 1
+	brandy: 1
+	crevettes: 1
+	egg: 1
+	fried: 1
+	garnished: 1
+	on: 1
+	pate: 1
+	sauce: 1
+	sausage: 3
+Words (by frequency): 
+	Spam: 26
+	and: 12
+	Egg: 8
+	Bacon: 6
+	sausage: 3
+	a: 2
+	with: 2
+	Lobster: 1
+	Mornay: 1
+	Sausage: 1
+	Thermidor: 1
+	aux: 1
+	baked: 1
+	beans: 1
+	brandy: 1
+	crevettes: 1
+	egg: 1
+	fried: 1
+	garnished: 1
+	on: 1
+	pate: 1
+	sauce: 1
+	top: 1
+	truffle: 1
