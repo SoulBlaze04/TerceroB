@@ -1,0 +1,62 @@
+{
+    "host": "gtirouter.dsic.upv.es",
+    "manager": "manager_aolccal",
+    "manager_password": "secret",
+    "service": "service_aolccal",
+    "service_password": "secret",
+    "axis": [
+		{
+            "rank": "BDISoldier",
+            "name": "axis_aolccal",
+            "password": "secret",
+            "amount": 8
+        },
+        {
+            "rank": "BDIMedic",
+            "name": "medic_axis_aolccal",
+            "password": "secret"
+        },
+         {
+            "rank": "BDIFieldOp",
+            "name": "fieldop_axis_aolccal",
+            "password": "secret"
+        }
+    ],
+     "allied": [
+		{
+            "rank": "actionsSoldier.NewSoldier",
+            "name": "allied_aolccal",
+            "password": "secret",
+            "amount": 5,
+            "asl": "soldier.asl"
+        },
+        {
+            "rank": "actionsMedic.NewMedic",
+            "name": "medic_allied_aolccal",
+            "amount": 2,
+            "password": "secret",
+            "asl": "medic.asl"
+        },
+        {
+            "rank": "actionsFieldop.NewFieldop",
+            "name": "fieldop_allied_aolccal",
+            "amount": 1,
+            "password": "secret",
+            "asl": "fieldop.asl"
+        },
+        {
+            "rank": "actionsGeneral.NewGeneral",
+            "name": "general_allied_aolccal",
+            "amount": 1,
+            "password": "secret",
+            "asl": "general.asl"
+        },
+        {
+            "rank": "actionsComandante.NewComandante",
+            "name": "comandante_allied_aolccal",
+            "amount": 1,
+            "password": "secret",
+            "asl": "comandante.asl"
+        }
+   ]
+  }

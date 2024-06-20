@@ -1,0 +1,39 @@
+{
+    "host": "gtirouter.dsic.upv.es",
+    "manager": "manager_aolccal",
+    "manager_password": "secret",
+    "service": "service_aolccal",
+    "service_password": "secret",
+    "axis": [
+		{
+            "rank": "newActions.NewSoldier",
+            "name": "luchador_aolccal",
+            "password": "secret",
+            "amount": 1,
+            "asl": "luchador.asl"
+        },
+        {
+            "rank": "BDISoldier",
+            "name": "luchador2_aolccal",
+            "password": "secret",
+            "amount": 0,
+            "asl": "luchador.asl"
+        }
+    ],
+     "allied": [
+                {
+            "rank": "invencibleM.BDIMInvencible",
+            "name": "medic_aolccal",
+            "password": "secret",
+            "amount": 3,
+            "asl": "medic_arena.asl"
+        }, 
+        {
+            "rank": "invencibleF.BDIFInvencible",
+            "name": "fieldop_aolccal",
+            "password": "secret",
+            "amount": 3,
+            "asl": "fieldop_arena.asl"
+        }
+   ]
+  }

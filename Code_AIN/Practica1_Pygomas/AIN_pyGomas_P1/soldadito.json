@@ -1,0 +1,16 @@
+{
+    "host": "gtirouter.dsic.upv.es",
+    "manager": "manager",
+    "manager_password": "secret",
+    "service": "service",
+    "service_password": "secret",
+    "axis": [
+        {
+            "rank": "newActions.NewSoldier",
+            "name": "soldadito_de_plomo",
+            "password": "secret",
+            "amount": 1,
+            "asl": "luchador.asl"
+        }
+    ]
+}
